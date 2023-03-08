@@ -2,3 +2,6 @@ name = "CADiffApp"
 uuid = "9d99c09e-83ab-4b1f-8291-f3ceba1d8a18"
 authors = ["= <=>"]
 version = "0.1.0"
+
+[deps]
+SimpleWebsockets = "129f17fe-97ed-471b-8d4c-fbfa5a103ea8"
