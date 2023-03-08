@@ -1,0 +1,4 @@
+name = "CADiffApp"
+uuid = "9d99c09e-83ab-4b1f-8291-f3ceba1d8a18"
+authors = ["= <=>"]
+version = "0.1.0"
